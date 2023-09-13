@@ -19,7 +19,7 @@ sed -i 's/#\?AllowTcpForwarding .*/AllowTcpForwarding yes/' /etc/ssh/sshd_config
 echo "
 <h3><font color='red'>▬▬▬▬▬▬۩۞۩▬▬▬▬▬▬
 </font></h3>
-<h3><font color='red'>--- ۩ PREMIUM SERVER ۩ ---
+<h3><font color='cyan'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
 <h3><font color='cyan'>--- ۩ SERVER BY ZERO TEAM 🇲🇲 ۩ ---
