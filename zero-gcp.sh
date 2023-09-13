@@ -19,16 +19,16 @@ sed -i 's/#\?AllowTcpForwarding .*/AllowTcpForwarding yes/' /etc/ssh/sshd_config
 echo "
 <h3><font color='red'>▬▬▬▬▬▬۩۞۩▬▬▬▬▬▬
 </font></h3>
-<h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
+<h3><font color='red'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY ZERO TEAM 🇲🇲 ۩ ---
+<h3><font color='cyan'>--- ۩ SERVER BY ZERO TEAM 🇲🇲 ۩ ---
 </font></h3>
 
 <h4><font color='cyan'>--- ۩ GCP SINHAPORE SERVER 🇸🇬 ۩ ---
 </font></h4>
 
-<h4><font color='blue'>--- ۩ THANL YOU 404 ۩ ---
+<h4><font color='cyan'>--- ۩ THANL YOU 404 ۩ ---
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬۩۞۩▬▬▬▬▬▬
@@ -38,7 +38,7 @@ echo "zero:zero" | chpasswd
 
 echo ""
 
-echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
+echo -e "${red}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 echo -e "${cyan} ___   ___          ________          ___   ___                               ${plain}"
 echo -e "${cyan}|\  \ |\  \        |\   __  \        |\  \ |\  \                              ${plain}"
 echo -e "${cyan}\ \  \|_\  \       \ \  \|\  \       \ \  \|_\  \                             ${plain}"
@@ -47,6 +47,6 @@ echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \             
 echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
 echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
 echo -e "${green}Contact the developer https://t.me/Nora7684 for more information              ${plain}"
-echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
+echo -e "${red}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
 echo -e "${cyan}I AM ZERO🇲🇲 ${plain}"
